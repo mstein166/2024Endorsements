@@ -19,13 +19,13 @@ const celebrities: Celebrity[] = [
   {
     name: "Taylor Swift",
     occupation: "Musician",
-    endorsement: "Taylor Swift endorsed Kamala Harris on Sept. 10th, 2024, announcing her support via Instagram post following the debate between Trump & Harris.",
+    endorsement: "Taylor Swift endorsed Harris on Sept. 10th, 2024, announcing her support via Instagram post following the debate between Trump & Harris.",
     cardColor: 'blue'
   },
   {
     name: "Hulk Hogan",
     occupation: "Wrestler",
-    endorsement: "Hulk Hogan endorsed Donald Trump on July 18th, 2024, during a public speech at the RNC.",
+    endorsement: "Hulk Hogan endorsed Trump on July 18th, 2024, during a public speech at the RNC.",
     cardColor: 'red'
   },
 
@@ -41,6 +41,27 @@ const celebrities: Celebrity[] = [
     occupation: "Entrepreneur",
     endorsement: "Elon Musk endorsed Trump via X on July 14th, the day following an assassination attempt on the former president's life.",
     cardColor: 'red'
+  },
+
+  {
+    name: "Billie Eilish",
+    occupation: "Musician",
+    endorsement: "Billie Eilish endorsed Harris via Instagram on Sept. 17th, National Voter registration Day",
+    cardColor: 'blue'
+  },
+
+  {
+    name: "George Clooney",
+    occupation: "Actor",
+    endorsement: "George Clooney endorsed Harris on July 23rd in a statement to CNN",
+    cardColor: 'blue'
+  },
+
+  {
+    name: "Bruce Springsteen",
+    occupation: "Musician",
+    endorsement: "Bruce Springsteen endorsed Harris via Instagram on Oct.3",
+    cardColor: 'blue'
   },
   // Add more celebrities here
 ]
